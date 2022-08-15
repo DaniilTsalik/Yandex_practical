@@ -4,6 +4,6 @@
 
 <div id="badges">
   <a href="vk.com/d.tsalik">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=Vконтакте&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
