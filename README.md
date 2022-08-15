@@ -3,5 +3,7 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="VK Badge"/>
+  <a href="vk.com/d.tsalik">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="VK Badge"/>
+  </a>
 </div>
