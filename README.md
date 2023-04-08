@@ -8,3 +8,9 @@
     <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
 </div>
+
+#Проекты ЯндексПрактикума
+
+ | Поле | Описание |
+| ------------ | ----- |
+| id | Идентификатор поста, первичный ключ таблицы |
