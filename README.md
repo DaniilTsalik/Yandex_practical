@@ -13,7 +13,4 @@
 
  | URL | Проект | Описание |
 | ------------ | ----- | --|
-| [music_of_big_city](https://github.com/DaniilTsalik/Yandex_practical/tree/main/1.%20Basic%20python) | Музыка больших городов | Сравненение музыкальных предпочтений жителей Москва и Санкт-Петербурга по данным Яндекс.Музыки |
-
-
-
+| [yandex_music_project](https://github.com/DaniilTsalik/yandex_practical/blob/main/yandex_music_project.ipynb) | Музыка больших городов | Сравненение музыкальных предпочтений жителей Москва и Санкт-Петербурга по данным Яндекс.Музыки |
