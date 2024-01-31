@@ -13,4 +13,5 @@
 
  | URL | Проект | Описание |
 | ------------ | ----- | --|
-| [yandex_music_project](https://github.com/DaniilTsalik/yandex_practical/blob/main/yandex_music_project.ipynb) | Музыка больших городов | Сравненение музыкальных предпочтений жителей Москва и Санкт-Петербурга по данным Яндекс.Музыки |
+| [project_1_music_of_big_city](https://github.com/DaniilTsalik/yandex_practical/blob/main/project_1_music_of_big_city/project_1_music_of_big_city.ipynb) | Музыка больших городов | Сравненение музыкальных предпочтений жителей Москва и Санкт-Петербурга по данным Яндекс.Музыки |
+| [project_2_borrower_reliability_research](https://github.com/DaniilTsalik/yandex_practical/blob/main/project_2_borrower_reliability_research/project_2_borrower_reliability_research.ipynb) | Оценка риска | Разработка скоринговой модели - оценки надежности заемщиков |
